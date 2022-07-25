@@ -1,7 +1,13 @@
-# <img src="https://github.com/medical-engineer0207/CBS-/blob/main/Images/ardblueyellow.png" width="50" height="50"/> CBS - Climate Box Sensors
+# <img src="https://github.com/medical-engineer0207/CBS-/blob/main/Images/ardblueyellow.png" width="50" height="50"/> CBS - Climate Box Sensors 
+ 
+<p align="center">
   <img src="https://github.com/medical-engineer0207/CBS/blob/main/Images/cbs.png" width="650" height="500"/> 
-
+  </p>
+  
 ##  Little project to learn how to connect ESP8266 01 to Arduino IOT.
+  <p align="center">
+ <img src="https://github.com/medical-engineer0207/CBS/blob/main/Images/cbs_iot.png" width="800" height="500"/> 
+  </p>
 
 
 ### Bill of materials:
