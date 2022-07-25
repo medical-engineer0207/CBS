@@ -1,7 +1,9 @@
-# CBS - Climate Box Sensors
-<img src="https://github.com/medical-engineer0207/CBS-/blob/main/Images/ardblueyellow.png" width="100" height="100"/> 
+# <img src="https://github.com/medical-engineer0207/CBS-/blob/main/Images/ardblueyellow.png" width="50" height="50"/> CBS - Climate Box Sensors
+  <img src="https://github.com/medical-engineer0207/CBS/blob/main/Images/cbs.png" width="650" height="500"/> 
 
 ##  Little project to learn how to connect ESP8266 01 to Arduino IOT.
+
+
 ### Bill of materials:
 * 1 Arduino Uno (we will use it for programming ESP8266)
 * 2 ESP8266 01
