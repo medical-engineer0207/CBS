@@ -4,7 +4,7 @@
   <img src="https://github.com/medical-engineer0207/CBS/blob/main/Images/cbs.png" width="650" height="500"/> 
   </p>
   
-##  A small project based on ESP8266-01 for measuring humidity, temperature and soil temperature, monitoring the climate of plants in a greenhouse.
+##  A small project based on ESP8266-01 for measuring humidity, temperature and soil temperature, monitoring the climate of plants in a greenhouse. More information you can find in [Wiki](https://github.com/medical-engineer0207/CBS/wiki).
   <p align="center">
  <img src="https://github.com/medical-engineer0207/CBS/blob/main/Images/cbs_iot.png" width="850" height="500"/> 
   </p>
